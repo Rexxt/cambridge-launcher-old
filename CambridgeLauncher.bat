@@ -124,7 +124,7 @@ echo ===========================================================================
 
 set /p command=do:
 if %command% == og start "" https://github.com/SashLilac/cambridge/archive/master.zip
-if %command% == dtet start "" https://github.com/Rexxt/cambridge-resources/raw/main/mods/downloads/dtet.zip
+if %command% == dtet start "" https://github.com/Rexxt/cambridge-resources/raw/main/mods/downloads/dtet/dtet-oct-10.zip
 if %command% == cancel goto dlmgr
 goto dlmgr
 
