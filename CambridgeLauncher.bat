@@ -39,7 +39,7 @@ echo cancel - Cancel launching Cambridge
 echo ===========================================================================
 set /p command=do:
 if %command% == og cd C:\Cambridge\cambridge-master
-if %command% == og cd C:\Cambridge\cambridge-dev
+if %command% == dev cd C:\Cambridge\cambridge-dev
 if %command% == cancel goto open
 echo Attempted to boot Cambridge...
 love .
