@@ -1,6 +1,6 @@
 # Cambridge Launcher
-Utility for Windows to launch [Cambridge](https://github.com/SashLilac/cambridge/)
+Utility for Windows and Mac to launch [Cambridge](https://github.com/SashLilac/cambridge/)
 
 ## Download
-Click the green "Download Code" button, then select the Zip file.
+Go in "Releases", select the latest version then download the appropriate zip for your operating system.
 All setup instructions are contained within the README.txt
